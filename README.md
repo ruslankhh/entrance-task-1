@@ -1174,3 +1174,12 @@ Cannot GET /graphql
 5. Убрал лишний отступ:
 
     - https://github.com/ruslankhh/yandex-entrance-task-1/blob/a0c0edd468af5817071a87a8727318b5f321f824/pages/controllers.js#L10
+
+### 4. Итоги
+
+Всё поправил (но это не точно).
+
+### 5. Todolist
+
+- [ ] В файле `create-mock-data.js` поправить дату окончания события, которая раньше даты начала.
+- [ ] Добавить поле `name` в тип `User`, чтобы было ближе к макету, пока что поставил `login`.
